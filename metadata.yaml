@@ -1,5 +1,8 @@
 _repo: Musta-virta_74450
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Liinamaa-Pärssinen, Hilja
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
     - https://fi.wikipedia.org/wiki/Hilja_P%C3%A4rssinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74450#Musta-virta
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
